@@ -15,6 +15,14 @@
       "category": "Casa",
       "price": 1500,
       "createdAt": "2024-03-12T13:40:37.711Z"
+    },
+    {
+      "id": 3,
+      "description": "Conta de Luz",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 700,
+      "createdAt": "2024-03-12T13:40:37.711Z"
     }
   ]
 }
