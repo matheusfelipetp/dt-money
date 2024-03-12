@@ -23,6 +23,22 @@
       "category": "Casa",
       "price": 700,
       "createdAt": "2024-03-12T13:40:37.711Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-12T20:14:01.324Z",
+      "id": 4
+    },
+    {
+      "description": "Almoço",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-12T20:31:37.159Z",
+      "id": 5
     }
   ]
 }
